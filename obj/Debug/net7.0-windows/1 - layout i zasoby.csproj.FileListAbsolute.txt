@@ -1,0 +1,22 @@
+H:\WSB\Sem IV - Programowanie .NET\1 - layout i zasoby\obj\Debug\net7.0-windows\1 - layout i zasoby.csproj.AssemblyReference.cache
+H:\WSB\Sem IV - Programowanie .NET\1 - layout i zasoby\obj\Debug\net7.0-windows\MainWindow.baml
+H:\WSB\Sem IV - Programowanie .NET\1 - layout i zasoby\obj\Debug\net7.0-windows\MainWindow.g.cs
+H:\WSB\Sem IV - Programowanie .NET\1 - layout i zasoby\obj\Debug\net7.0-windows\1 - layout i zasoby_MarkupCompile.cache
+H:\WSB\Sem IV - Programowanie .NET\1 - layout i zasoby\bin\Debug\net7.0-windows\1 - layout i zasoby.exe
+H:\WSB\Sem IV - Programowanie .NET\1 - layout i zasoby\bin\Debug\net7.0-windows\1 - layout i zasoby.deps.json
+H:\WSB\Sem IV - Programowanie .NET\1 - layout i zasoby\bin\Debug\net7.0-windows\1 - layout i zasoby.runtimeconfig.json
+H:\WSB\Sem IV - Programowanie .NET\1 - layout i zasoby\bin\Debug\net7.0-windows\1 - layout i zasoby.dll
+H:\WSB\Sem IV - Programowanie .NET\1 - layout i zasoby\bin\Debug\net7.0-windows\1 - layout i zasoby.pdb
+H:\WSB\Sem IV - Programowanie .NET\1 - layout i zasoby\obj\Debug\net7.0-windows\App.g.cs
+H:\WSB\Sem IV - Programowanie .NET\1 - layout i zasoby\obj\Debug\net7.0-windows\1 - layout i zasoby_MarkupCompile.lref
+H:\WSB\Sem IV - Programowanie .NET\1 - layout i zasoby\obj\Debug\net7.0-windows\1 - layout i zasoby.g.resources
+H:\WSB\Sem IV - Programowanie .NET\1 - layout i zasoby\obj\Debug\net7.0-windows\1 - layout i zasoby.GeneratedMSBuildEditorConfig.editorconfig
+H:\WSB\Sem IV - Programowanie .NET\1 - layout i zasoby\obj\Debug\net7.0-windows\1 - layout i zasoby.AssemblyInfoInputs.cache
+H:\WSB\Sem IV - Programowanie .NET\1 - layout i zasoby\obj\Debug\net7.0-windows\1 - layout i zasoby.AssemblyInfo.cs
+H:\WSB\Sem IV - Programowanie .NET\1 - layout i zasoby\obj\Debug\net7.0-windows\1 - layout i zasoby.csproj.CoreCompileInputs.cache
+H:\WSB\Sem IV - Programowanie .NET\1 - layout i zasoby\obj\Debug\net7.0-windows\1 - layout i zasoby.dll
+H:\WSB\Sem IV - Programowanie .NET\1 - layout i zasoby\obj\Debug\net7.0-windows\refint\1 - layout i zasoby.dll
+H:\WSB\Sem IV - Programowanie .NET\1 - layout i zasoby\obj\Debug\net7.0-windows\1 - layout i zasoby.pdb
+H:\WSB\Sem IV - Programowanie .NET\1 - layout i zasoby\obj\Debug\net7.0-windows\1 - layout i zasoby.genruntimeconfig.cache
+H:\WSB\Sem IV - Programowanie .NET\1 - layout i zasoby\obj\Debug\net7.0-windows\ref\1 - layout i zasoby.dll
+H:\WSB\Sem IV - Programowanie .NET\1 - layout i zasoby\obj\Debug\net7.0-windows\App.baml

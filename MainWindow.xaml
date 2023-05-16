@@ -1,0 +1,85 @@
+﻿<Window x:Class="_1___layout_i_zasoby.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_1___layout_i_zasoby"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="800">
+
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="300*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="400*"/>
+            <ColumnDefinition Width="400*"/>
+        </Grid.ColumnDefinitions>
+
+        
+        <Label Content="WrapPanel"
+               Grid.Row="0"
+               Grid.Column="0"
+               Grid.ColumnSpan="2"
+               
+               Style="{StaticResource BoldLabelStyle}"
+               
+               HorizontalAlignment="Center" 
+               VerticalAlignment="Center"/>
+
+        
+        <Label Content="StackPanel"
+               Grid.Row="2"
+               Grid.Column="0"
+               Grid.ColumnSpan="2"
+               
+               Style="{StaticResource SpecialLabelStyle}"
+               
+               HorizontalAlignment="Center" 
+               VerticalAlignment="Center"/>
+
+
+        <WrapPanel Grid.Row="1"
+                   Grid.ColumnSpan="2">
+
+            <Button Content="Przycisk 1" Style="{StaticResource FirstButtonStyle}"/>
+            <Button Content="Przycisk 2" Style="{StaticResource FirstButtonStyle}"/>
+            <Button Content="Przycisk 3" Style="{StaticResource FirstButtonStyle}"/>
+            <Button Content="Przycisk 4" Style="{StaticResource FirstButtonStyle}"/>
+            <Button Content="Przycisk 5" Style="{StaticResource FirstButtonStyle}"/>
+            <Button Content="Przycisk 6" Style="{StaticResource FirstButtonStyle}"/>
+            <Button Content="Przycisk 7" Style="{StaticResource FirstButtonStyle}"/>
+            <Button Content="Przycisk 8" Style="{StaticResource FirstButtonStyle}"/>
+            <Button Content="Przycisk 9" Style="{StaticResource FirstButtonStyle}"/>
+            <Button Content="Przycisk 10" Style="{StaticResource FirstButtonStyle}"/>
+            
+        </WrapPanel>
+
+        <ScrollViewer VerticalScrollBarVisibility="Auto"
+                      Grid.Column="0"
+                      Grid.Row="3" Margin="0,10,0,-10">
+            <StackPanel>
+
+                <TextBlock Text="Grupa 1" Margin="0,0,0,5"/>
+                <Button Content="Przycisk 1" Style="{StaticResource SecondButtonStyle}"/>
+                <Button Content="Przycisk 2" Style="{StaticResource SecondButtonStyle}"/>
+                <Button Content="Przycisk 3" Style="{StaticResource SecondButtonStyle}"/>
+                <TextBlock Text="Grupa 2" Margin="0,0,0,5"/>
+                <Button Content="Przycisk 4" Style="{StaticResource SecondButtonStyle}"/>
+                <Button Content="Przycisk 5" Style="{StaticResource SecondButtonStyle}"/>
+                <Button Content="Przycisk 6" Style="{StaticResource SecondButtonStyle}"/>
+                <TextBlock Text="Grupa 3" Margin="0,0,0,5"/>
+                <Button Content="Przycisk 7" Style="{StaticResource SecondButtonStyle}"/>
+                <Button Content="Przycisk 8" Style="{StaticResource SecondButtonStyle}"/>
+                <Button Content="Przycisk 9" Style="{StaticResource SecondButtonStyle}"/>
+                <Button Content="Przycisk 10" Style="{StaticResource SecondButtonStyle}"/>
+
+            </StackPanel>
+        </ScrollViewer>
+        
+    </Grid>
+</Window>
